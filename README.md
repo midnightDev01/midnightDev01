@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Raissa Rodrigues Penha,  I'm a Software Engineer at MyraSecurity, and I've been working in tech since 2012. I'm from Brazil, and I'm currently living in Munich.
+I'm Raissa Rodrigues Penha,  I'm a Software Engineer, and I've been working in tech since 2012. I'm from Brazil, and I'm currently living in Munich.
 
 ## ⚡ Technologies
 
