@@ -2,7 +2,7 @@
 ## ⚡ hello, friend.
 I'm Raissa Rodrigues Penha,  I'm a Software Engineer, and I've been working in tech since 2012. I'm from Brazil, and I'm currently living in Munich.
 
-## ⚡ Technologies
+## ⚡ technologies
 
 These are some of the technologies and tools that I work with:
 
