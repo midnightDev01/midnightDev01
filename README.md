@@ -6,6 +6,8 @@ I'm Raissa Rodrigues Penha,  I'm a Software Engineer, and I've been working in t
 
 These are some of the technologies and tools that I work with:
 
+![PHP](https://img.shields.io/badge/PHP-8993be?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
